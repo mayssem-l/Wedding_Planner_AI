@@ -1,4 +1,4 @@
-# 🍽️ Food & Catering Module — Wedding Planner IA
+# Food & Catering Module — Wedding Planner IA
 
 ## Description
 Ce module est responsable de la recommandation de plats pour les mariages.
@@ -6,11 +6,11 @@ Il combine Computer Vision et un système de recommandation hybride pour suggér
 le meilleur menu selon les préférences du couple.
 
 ## Fonctionnalités
-- 📸 Reconnaissance automatique de plats depuis une photo (MobileNetV2)
-- 💍 Recommandation hybride personnalisée (TF-IDF + notes utilisateurs)
-- 🔍 Explainable AI avec Grad-CAM
-- 🤖 Chatbot de recommandation en langage naturel
-- 🍽️ Générateur de menu complet (apéritif + entrée + plat + dessert)
+- Reconnaissance automatique de plats depuis une photo (MobileNetV2)
+- Recommandation hybride personnalisée (TF-IDF + notes utilisateurs)
+- Explainable AI avec Grad-CAM
+- Chatbot de recommandation en langage naturel
+- Générateur de menu complet (apéritif + entrée + plat + dessert)
 
 ## Technologies utilisées
 - Python, TensorFlow, Keras
